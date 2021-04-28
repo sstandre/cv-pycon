@@ -38,7 +38,8 @@ def cv():
         },
         "intereses" : ["python", "sneks", "rest"],
         "redes" : {
-            "github" : "https://github.com/sstandre"
+            "github" : "https://github.com/sstandre",
+            "facebook" : "NONE"
         },
         "foto" : url_imagen
 
